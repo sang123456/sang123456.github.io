@@ -1,0 +1,253 @@
+D:\Web\TSQ\TSQ\bin\ApplicationInsights.config
+D:\Web\TSQ\TSQ\bin\roslyn\csc.exe
+D:\Web\TSQ\TSQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web\TSQ\TSQ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web\TSQ\TSQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web\TSQ\TSQ\bin\roslyn\System.Collections.Immutable.dll
+D:\Web\TSQ\TSQ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web\TSQ\TSQ\bin\roslyn\vbc.exe
+D:\Web\TSQ\TSQ\bin\roslyn\VBCSCompiler.exe
+D:\Web\TSQ\TSQ\bin\roslyn\VBCSCompiler.exe.config
+D:\Web\TSQ\TSQ\bin\TSQ.dll.config
+D:\Web\TSQ\TSQ\bin\TSQ.dll
+D:\Web\TSQ\TSQ\bin\TSQ.pdb
+D:\Web\TSQ\TSQ\bin\Antlr3.Runtime.dll
+D:\Web\TSQ\TSQ\bin\EntityFramework.dll
+D:\Web\TSQ\TSQ\bin\EntityFramework.SqlServer.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.DependencyCollector.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.Web.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.WindowsServer.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.ApplicationInsights.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Google.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.Web.Infrastructure.dll
+D:\Web\TSQ\TSQ\bin\Newtonsoft.Json.dll
+D:\Web\TSQ\TSQ\bin\Owin.dll
+D:\Web\TSQ\TSQ\bin\System.Web.Helpers.dll
+D:\Web\TSQ\TSQ\bin\System.Web.Mvc.dll
+D:\Web\TSQ\TSQ\bin\System.Web.Optimization.dll
+D:\Web\TSQ\TSQ\bin\System.Web.Razor.dll
+D:\Web\TSQ\TSQ\bin\System.Web.WebPages.Deployment.dll
+D:\Web\TSQ\TSQ\bin\System.Web.WebPages.dll
+D:\Web\TSQ\TSQ\bin\System.Web.WebPages.Razor.dll
+D:\Web\TSQ\TSQ\bin\WebGrease.dll
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.DependencyCollector.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.Web.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.AI.WindowsServer.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.ApplicationInsights.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web\TSQ\TSQ\bin\System.Web.Helpers.xml
+D:\Web\TSQ\TSQ\bin\System.Web.Mvc.xml
+D:\Web\TSQ\TSQ\bin\System.Web.Optimization.xml
+D:\Web\TSQ\TSQ\bin\System.Web.Razor.xml
+D:\Web\TSQ\TSQ\bin\System.Web.WebPages.xml
+D:\Web\TSQ\TSQ\bin\System.Web.WebPages.Deployment.xml
+D:\Web\TSQ\TSQ\bin\System.Web.WebPages.Razor.xml
+D:\Web\TSQ\TSQ\bin\Antlr3.Runtime.pdb
+D:\Web\TSQ\TSQ\bin\Newtonsoft.Json.xml
+D:\Web\TSQ\TSQ\bin\EntityFramework.xml
+D:\Web\TSQ\TSQ\bin\EntityFramework.SqlServer.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Google.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web\TSQ\TSQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web\TSQ\TSQ\obj\Debug\TSQ.csprojResolveAssemblyReference.cache
+D:\Web\TSQ\TSQ\obj\Debug\TSQ.dll
+D:\Web\TSQ\TSQ\obj\Debug\TSQ.pdb
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\ApplicationInsights.config
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\csc.exe
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\System.Collections.Immutable.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\System.Reflection.Metadata.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\vbc.exe
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\VBCSCompiler.exe
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\roslyn\VBCSCompiler.exe.config
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\TSQ.dll.config
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\TSQ.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\TSQ.pdb
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Antlr3.Runtime.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\EntityFramework.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\EntityFramework.SqlServer.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.DependencyCollector.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.Web.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.WindowsServer.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.ApplicationInsights.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Google.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Web.Infrastructure.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Newtonsoft.Json.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Owin.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Helpers.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Mvc.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Optimization.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Razor.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.WebPages.Deployment.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.WebPages.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.WebPages.Razor.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\WebGrease.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.DependencyCollector.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.Web.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AI.WindowsServer.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.ApplicationInsights.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Helpers.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Mvc.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Optimization.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.Razor.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.WebPages.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.WebPages.Deployment.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\System.Web.WebPages.Razor.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Antlr3.Runtime.pdb
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Newtonsoft.Json.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\EntityFramework.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\EntityFramework.SqlServer.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Google.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\obj\Debug\TSQ.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\obj\Debug\TSQ.pdb
+D:\TSQ\TSQ\bin\ApplicationInsights.config
+D:\TSQ\TSQ\bin\roslyn\csc.exe
+D:\TSQ\TSQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TSQ\TSQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TSQ\TSQ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TSQ\TSQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TSQ\TSQ\bin\roslyn\System.Collections.Immutable.dll
+D:\TSQ\TSQ\bin\roslyn\System.Reflection.Metadata.dll
+D:\TSQ\TSQ\bin\roslyn\vbc.exe
+D:\TSQ\TSQ\bin\roslyn\VBCSCompiler.exe
+D:\TSQ\TSQ\bin\roslyn\VBCSCompiler.exe.config
+D:\TSQ\TSQ\bin\TSQ.dll.config
+D:\TSQ\TSQ\bin\TSQ.dll
+D:\TSQ\TSQ\bin\TSQ.pdb
+D:\TSQ\TSQ\bin\Antlr3.Runtime.dll
+D:\TSQ\TSQ\bin\EntityFramework.dll
+D:\TSQ\TSQ\bin\EntityFramework.SqlServer.dll
+D:\TSQ\TSQ\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TSQ\TSQ\bin\Microsoft.AI.DependencyCollector.dll
+D:\TSQ\TSQ\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TSQ\TSQ\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TSQ\TSQ\bin\Microsoft.AI.Web.dll
+D:\TSQ\TSQ\bin\Microsoft.AI.WindowsServer.dll
+D:\TSQ\TSQ\bin\Microsoft.ApplicationInsights.dll
+D:\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Core.dll
+D:\TSQ\TSQ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\TSQ\TSQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Facebook.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Google.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Twitter.dll
+D:\TSQ\TSQ\bin\Microsoft.Web.Infrastructure.dll
+D:\TSQ\TSQ\bin\Newtonsoft.Json.dll
+D:\TSQ\TSQ\bin\Owin.dll
+D:\TSQ\TSQ\bin\System.Web.Helpers.dll
+D:\TSQ\TSQ\bin\System.Web.Mvc.dll
+D:\TSQ\TSQ\bin\System.Web.Optimization.dll
+D:\TSQ\TSQ\bin\System.Web.Razor.dll
+D:\TSQ\TSQ\bin\System.Web.WebPages.Deployment.dll
+D:\TSQ\TSQ\bin\System.Web.WebPages.dll
+D:\TSQ\TSQ\bin\System.Web.WebPages.Razor.dll
+D:\TSQ\TSQ\bin\WebGrease.dll
+D:\TSQ\TSQ\bin\Microsoft.AI.DependencyCollector.xml
+D:\TSQ\TSQ\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TSQ\TSQ\bin\Microsoft.AI.Web.xml
+D:\TSQ\TSQ\bin\Microsoft.AI.WindowsServer.xml
+D:\TSQ\TSQ\bin\Microsoft.ApplicationInsights.xml
+D:\TSQ\TSQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TSQ\TSQ\bin\System.Web.Helpers.xml
+D:\TSQ\TSQ\bin\System.Web.Mvc.xml
+D:\TSQ\TSQ\bin\System.Web.Optimization.xml
+D:\TSQ\TSQ\bin\System.Web.Razor.xml
+D:\TSQ\TSQ\bin\System.Web.WebPages.xml
+D:\TSQ\TSQ\bin\System.Web.WebPages.Deployment.xml
+D:\TSQ\TSQ\bin\System.Web.WebPages.Razor.xml
+D:\TSQ\TSQ\bin\Antlr3.Runtime.pdb
+D:\TSQ\TSQ\bin\Newtonsoft.Json.xml
+D:\TSQ\TSQ\bin\EntityFramework.xml
+D:\TSQ\TSQ\bin\EntityFramework.SqlServer.xml
+D:\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Core.xml
+D:\TSQ\TSQ\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\TSQ\TSQ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Facebook.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Google.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.Twitter.xml
+D:\TSQ\TSQ\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\TSQ\TSQ\obj\Debug\TSQ.csprojResolveAssemblyReference.cache
+D:\TSQ\TSQ\obj\Debug\TSQ.dll
+D:\TSQ\TSQ\obj\Debug\TSQ.pdb
+D:\TSQ\TSQ\bin\PagedList.dll
+D:\TSQ\TSQ\bin\PagedList.Mvc.dll
+D:\TSQ\TSQ\bin\PagedList.xml
+D:\TSQ\TSQ\bin\PagedList.Mvc.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\PagedList.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\PagedList.Mvc.dll
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\PagedList.xml
+E:\Lập trình mạng full end\Bai tap về ASP.NET MVC5\TSQ-Web_ASP.NET\TSQ\TSQ\bin\PagedList.Mvc.xml

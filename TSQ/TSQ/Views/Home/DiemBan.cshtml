@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewBag.Title = "Điểm Bán";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    
+    @*<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDzxH9RKWo4Os5r5j2TammLwjEnazxYHZo&signed_in=true&callback=initialize "></script>
+    <script type="text/javascript">
+        var gmap = new google.maps.LatLng(10.8018444,106.7126571);
+    var marker;
+    function initialize()
+    {
+        var mapProp = {
+            center:new google.maps.LatLng(10.8018444,106.7126571),
+             zoom:16,
+            mapTypeId:google.maps.MapTypeId.ROADMAP
+        };
+
+        var map=new google.maps.Map(document.getElementById("googleMap")
+        ,mapProp);
+
+      var styles = [
+        {
+          featureType: 'road.arterial',
+          elementType: 'all',
+          stylers: [
+            { hue: '#fff' },
+            { saturation: 100 },
+            { lightness: -48 },
+            { visibility: 'on' }
+          ]
+        },{
+          featureType: 'road',
+          elementType: 'all',
+          stylers: [
+
+          ]
+        },
+        {
+            featureType: 'water',
+            elementType: 'geometry.fill',
+            stylers: [
+                { color: '#adc9b8' }
+            ]
+        },{
+            featureType: 'landscape.natural',
+            elementType: 'all',
+            stylers: [
+                { hue: '#809f80' },
+                { lightness: -35 }
+            ]
+        }
+      ];
+
+      var styledMapType = new google.maps.StyledMapType(styles);
+      map.mapTypes.set('Styled', styledMapType);
+
+      marker = new google.maps.Marker({
+        map:map,
+        draggable:true,
+        animation: google.maps.Animation.DROP,
+        position: gmap
+      });
+      google.maps.event.addListener(marker, 'click', toggleBounce);
+    }
+
+    function toggleBounce() {
+
+      if (marker.getAnimation() !== null) {
+        marker.setAnimation(null);
+      } else {
+        marker.setAnimation(google.maps.Animation.BOUNCE);
+      }
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+    </script>*@
+
+    <div id="googleMap" class="col-md-5" style="height: 500px">Google Map</div>
+    <div class="col-md-7" style="color:white;margin-top:10px;text-align:center">
+        <img src="~/img/DB.jpg" width="100%">
+        <p style="margin-top:10px"><strong>Địa Chỉ</strong>: 475 A Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Hồ Chí Minh </pmargin-top:10px>
+        <p><strong>Số Điện Thoại</strong>: 01652343256</p>
+        <p><strong>Email</strong>:TSQWatch@gmail.com</p>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<p></p>
+<div class="modal-content">
+    <fb:comments href="http://tsqwatch.somee.com" colorscheme="light" numposts="5" width="100%" style="color:white"></fb:comments>
+</div>
+
